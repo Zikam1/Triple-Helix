@@ -12,6 +12,7 @@
 		<div class="h-full relative">
 			<Header />
 			<Hero />
+			<Cards />
 		</div>
 	</div>
 </template>

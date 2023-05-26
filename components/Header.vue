@@ -18,10 +18,10 @@
 				</li>
 			</template>
 		</ul>
-		<NuxtLink
-			to="#"
+		<a
+			href="#"
 			class="px-5 py-2 text-sm bg-blue-700 text-white rounded-full hover:bg-violet-900 transition-all duration-300"
-			>Register</NuxtLink
+			>Register</a
 		>
 	</header>
 </template>
